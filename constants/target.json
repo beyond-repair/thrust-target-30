@@ -1,0 +1,12 @@
+{
+  "name": "thrust_target_30",
+  "kind": "design_goal",
+  "claim_level": 0,
+  "experimental_validation": false,
+  "F_over_P": {
+    "value_N_per_W": 3e-8,
+    "value_uN_per_kW": 30,
+    "si_unit": "N/W"
+  },
+  "identity": "30e-6 N/kW == 3e-8 N/W"
+}
